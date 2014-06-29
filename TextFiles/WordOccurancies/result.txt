@@ -1,0 +1,7 @@
+﻿me : 14
+happy : 6
+a : 4
+Because : 4
+Bring : 4
+might : 1
+take : 1
